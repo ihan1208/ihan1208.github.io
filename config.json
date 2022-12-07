@@ -1,4 +1,10 @@
 {
+    "gs":{
+     "image": "images/gs.jpg",
+    "name": "计算机学院.郭帅",
+    "identity": "身份：在编教职工",
+    "back_ground": "url(https://jksb.v.zzu.edu.cn/imagesss/sf_shi4.png)"
+   }
     "szh": {
     "image": "images/szh.jpg",
     "name": "计算机学院.尚志浩",
