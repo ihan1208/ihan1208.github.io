@@ -1,13 +1,19 @@
 {
-    "gs": {
-     "image": "images/gs.jpg",
-    "name": "计算机学院.郭帅",
+    "cq": {
+     "image": "images/cq.jpg",
+    "name": "计算机学院.陈钱",
     "identity": "身份：在编教职工",
     "back_ground": "url(https://jksb.v.zzu.edu.cn/imagesss/sf_shi4.png)"
    },
     "zh": {
     "image": "images/zh.jpg",
     "name": "计算机学院.赵寒",
+    "identity": "身份：在编教职工",
+    "back_ground": "url(https://jksb.v.zzu.edu.cn/imagesss/sf_shi4.png)"
+  },
+    "zl": {
+    "image": "images/zl.jpg",
+    "name": "计算机学院.赵乐",
     "identity": "身份：在编教职工",
     "back_ground": "url(https://jksb.v.zzu.edu.cn/imagesss/sf_shi4.png)"
   },
